@@ -23,3 +23,30 @@ source venv/bin/activate
 
 3. Установить зависимости  
 pip install -r requirements.txt  
+
+4. Запуск приложений  
+
+### Задание 6.1  
+uvicorn task_6_1:app --reload --port 8001  
+
+### Задание 6.2  
+uvicorn task_6_2:app --reload --port 8002  
+
+### Задание 6.3  
+uvicorn task_6_3:app --reload --port 8003  
+
+### Задание 6.4  
+uvicorn task_6_4:app --reload --port 8004  
+
+### Задание 6.5  
+uvicorn task_6_5:app --reload --port 8005  
+
+### Задание 7.1  
+uvicorn task_7_1:app --reload --port 8006
+
+### Задание 8.1  
+uvicorn task_8_1:app --reload --port 8007  
+
+### Задание 8.2  
+uvicorn task_8_2:app --reload --port 8008  
+
