@@ -24,7 +24,7 @@ source venv/bin/activate
 3. Установить зависимости  
 pip install -r requirements.txt  
 
-4. Запуск приложений  
+4. Запуск  
 
 ### Задание 6.1  
 uvicorn task_6_1:app --reload --port 8001  
